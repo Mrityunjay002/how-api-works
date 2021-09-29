@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+.header{
+    width: 100%;
+    background-color: yellow;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid black;
+
+  
+}
+.blog-posts{
+    width: 100%;
+    padding: 30px 10px 10px;
+    height: 100vh;
+  
+}
+.fun{
+    background-color: thistle;
+    padding: 20px;
+}
+.input-blog{
+    width: 250px;
+    margin: auto;
+}
+
+form{
+    width: 100%;
+    padding: 60px;
+    background-color: turquoise;
+    display: grid;
+}
